@@ -1,0 +1,9 @@
+C:\Users\Yogeswaran V\Box Sync\UP Engineering\git\c-sharp\UpCodeMigration\UpCodeMigration\bin\Debug\UpCodeMigration.exe.config
+C:\Users\Yogeswaran V\Box Sync\UP Engineering\git\c-sharp\UpCodeMigration\UpCodeMigration\obj\Debug\UpCodeMigration.csprojResolveAssemblyReference.cache
+C:\Users\Yogeswaran V\Box Sync\UP Engineering\git\c-sharp\UpCodeMigration\UpCodeMigration\bin\Debug\UpCodeMigration.exe
+C:\Users\Yogeswaran V\Box Sync\UP Engineering\git\c-sharp\UpCodeMigration\UpCodeMigration\bin\Debug\UpCodeMigration.pdb
+C:\Users\Yogeswaran V\Box Sync\UP Engineering\git\c-sharp\UpCodeMigration\UpCodeMigration\obj\Debug\UpCodeMigration.exe
+C:\Users\Yogeswaran V\Box Sync\UP Engineering\git\c-sharp\UpCodeMigration\UpCodeMigration\obj\Debug\UpCodeMigration.pdb
+C:\Users\Yogeswaran V\Desktop\UP\C#\git version\UpCodeMigration\UpCodeMigration\bin\Debug\UpCodeMigration.exe.config
+C:\Users\Yogeswaran V\Desktop\UP\C#\git version\UpCodeMigration\UpCodeMigration\obj\Debug\UpCodeMigration.exe
+C:\Users\Yogeswaran V\Desktop\UP\C#\git version\UpCodeMigration\UpCodeMigration\obj\Debug\UpCodeMigration.pdb
